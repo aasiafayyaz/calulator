@@ -1,0 +1,62 @@
+.main{
+    margin: 0 auto;
+    border: 3px solid rgb(39, 49, 126);
+    width: 250px;
+    box-shadow:4px 4px 8px rgb(118, 154, 245);
+    border-radius: 13px;
+    text-align: center;
+    padding: 10px;
+}
+.input-box{
+    width: 90%;
+    border-radius: 4px;
+    height: 45px;
+    margin-top: 20px;
+    background-color: rgb(246, 242, 242);
+    border-color: rgb(62, 65, 142);
+}
+button:hover{
+    cursor: pointer;
+}
+button {outline: none !important;}
+
+.uniq{
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 15px;
+    margin-left: 100px;
+    width: 50px;
+    height: 45px;
+    border-color: rgb(250, 163, 163);
+    background-color: rgb(250, 163, 163);
+    box-shadow:3px 3px 3px rgb(197, 194, 194);
+    font-size: 19px;
+    font-weight: bolder;
+    color: rgb(157, 19, 19)
+}
+h2{
+    color:rgb(28, 12, 202);
+    margin-left: 20px;
+    font-style: oblique;
+    font-family:'Segoe UI', Tahoma;
+}
+.inline-ele{
+    display: inline-flex;
+    width: 100%;
+    padding: 3px;
+}
+
+.btn{
+    width: 50px;
+    margin: 2px;
+    height: 35px;
+    border-color: rgb(209, 225, 253);
+    background-color: rgb(209, 225, 253);
+    box-shadow:3px 3px 3px rgb(169, 169, 169);
+    font-size: 19px;
+    font-weight: bolder;
+    color: rgb(74, 33, 132);
+    text-decoration: none;
+    border-radius: 4px;
+    
+}
